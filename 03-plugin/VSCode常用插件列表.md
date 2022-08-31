@@ -7,3 +7,12 @@
 
 [Project Manager](https://github.com/alefragnani/vscode-project-manager)方便我们更好的管理多个项目。
 
+[Draw.io Integration](https://github.com/eightHundreds/vscode-drawio)支持在VSCode中直接画流程图等。
+
+[Kary Pro Colors](https://github.com/pouyakary/procolors)提供一套风格化的主题和文件图标。
+
+[Window Colors](https://github.com/stuartcrobinson/unique-window-colors)为不同的VSCode分别设置不同的主题颜色。
+
+[VSCode Counter](https://github.com/uctakeoff/vscode-counter)统计代码信息。
+
+[WakaTime](https://github.com/wakatime/vscode-wakatime)统计工作时间。
