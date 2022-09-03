@@ -56,3 +56,5 @@
 [Lorem ipsum](https://github.com/Tyriar/vscode-lorem-ipsum) 用于智能的生成中英文测试内容的工具。
 
 [Monokai Pro](https://monokai.pro/) 用于代码编辑器的配色方案和自定义用户界面主题。
+
+[Dictionary Completion](https://github.com/yzhang-gh/vscode-dic-completion) 允许用户根据光标处的当前单词获取关键字列表
