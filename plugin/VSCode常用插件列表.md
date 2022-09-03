@@ -52,3 +52,7 @@
 [Quokka.js](https://quokkajs.com/docs/) 编辑器中的快速原型设计游乐场，可访问项目文件、内联报告、代码覆盖率和丰富的输出格式。
 
 [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) 智能补全工具。
+
+[Lorem ipsum](https://github.com/Tyriar/vscode-lorem-ipsum) 用于智能的生成中英文测试内容的工具。
+
+[Monokai Pro](https://monokai.pro/) 用于代码编辑器的配色方案和自定义用户界面主题。
