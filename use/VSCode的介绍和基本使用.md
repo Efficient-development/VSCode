@@ -22,4 +22,4 @@
 
 [调试适配协议(DAP)Debug Adapter Protocol](https://github.com/microsoft/debug-adapter-protocol)
 
-[集成终端实现：使用Typescript开发的前端组件](https://github.com/xtermjs/xterm.js)
+[集成终端实现：使用Typescript](https://github.com/xtermjs/xterm.js)
