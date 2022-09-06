@@ -1,5 +1,5 @@
 
-## 为VSCode设置一款好看的字体
+### #为VSCode设置一款好看的字体
 
 我推荐和自己时用的是 [FiraCode](https://github.com/tonsky/FiraCode) 字体，设置方式：
 
